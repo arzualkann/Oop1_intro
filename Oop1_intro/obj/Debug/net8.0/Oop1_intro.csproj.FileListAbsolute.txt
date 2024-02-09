@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\bin\Debug\net8.0\Oop1_intro.exe
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\bin\Debug\net8.0\Oop1_intro.deps.json
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\bin\Debug\net8.0\Oop1_intro.runtimeconfig.json
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\bin\Debug\net8.0\Oop1_intro.dll
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\bin\Debug\net8.0\Oop1_intro.pdb
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.AssemblyInfo.cs
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.dll
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\refint\Oop1_intro.dll
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.pdb
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\Oop1_intro.genruntimeconfig.cache
+C:\Users\user\Desktop\tobeto\Oop1_intro\Oop1_intro\obj\Debug\net8.0\ref\Oop1_intro.dll
